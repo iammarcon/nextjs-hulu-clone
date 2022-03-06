@@ -1,5 +1,7 @@
 Deployed on Vercel.com https://nextjs-hulu-clone-gamma.vercel.app/
 
+Mobiel First Design
+
 Developed with:
 -Heroicons
 -Next.js
