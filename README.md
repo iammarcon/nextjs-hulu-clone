@@ -7,7 +7,7 @@ Developed with:
 -Tailwind CSS
 -REST API
 
-special features
+Special Features:
 -Animations
 -Server Side Rendering
 -Lazy loading default by Next.js 
