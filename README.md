@@ -1,4 +1,4 @@
-Deployed on Vercel.com 
+Deployed on Vercel.com https://nextjs-hulu-clone-gamma.vercel.app/
 
 Developed with:
 -Heroicons
